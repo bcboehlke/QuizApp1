@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">A long is a primitive.</string>
+    <string name="question_2">for (String element ; array) {} is the correct way to make a enhanced for loop that loops through a String array.</string>
+    <string name="question_3">Octal is a nine number counting system.</string>
+    <string name="question_4">import java.lang.*; will import every utility class.</string>
+    <string name="question_5">import java.util.*; will import every utility class.</string>
+    <string name="question_6">to convert a character to a string you use char.toString(char)</string>
+    <string name="question_7">to convert a string into a integer you use Integer.parseInt(string)</string>
+    <string name="question_8">What is a boolean?</string>
+    <string name="question_9">Hazelnut and French Vanilla are the best Coffee creamers.</string>
+    <string name="question_10">Java is a cross platform coding language.</string>
+    <string name="question_11">Java is the best way to Java when Java is due.</string>
+    <string name="question_12">IntelliJ is the best IDE.</string>
+    <string name="question_13">Debugging takes 500% longer than coding.</string>
+
+</resources>
